@@ -1,0 +1,24 @@
+2026-09-27 13:19:43,561 [INFO] Arquivo lido com sucesso: 6400 linhas, 19 colunas.
+2026-09-27 13:19:43,561 [INFO] Validação de schema: todas as colunas esperadas estão presentes.
+2026-09-27 13:19:43,585 [INFO] valor_imovel: 3 linha(s) com prefixo 'R$' corrigidas.
+2026-09-27 13:19:43,585 [INFO] ltv: coluna calculada (valor_solicitado / valor_imovel).
+2026-09-27 13:19:43,585 [INFO] idade_cliente: 1 linha(s) implausível(is) marcada(s) como ausente.
+2026-09-27 13:19:43,585 [INFO] etapa_max_funil: 1 linha(s) fora do intervalo (>6) corrigida(s) para 6.
+2026-09-27 13:19:43,585 [INFO] data_entrada: 3 linha(s) com formato de data diferente, padronizada(s).
+2026-09-27 13:19:43,585 [INFO] canal_origem: 4 linha(s) com grafia inconsistente, padronizada(s).
+2026-09-27 13:19:43,585 [INFO] taxa_juros_aa: renomeada para taxa_juros_am (nome incoerente com o dicionário).
+2026-09-27 13:19:43,585 [INFO] data_assinatura_contrato: 1 linha(s) com data impossível, marcada(s) como ausente.
+2026-09-27 13:19:43,594 [INFO] Métricas calculadas: 6400 propostas, 1241 contratadas (19.4%).
+2026-09-27 13:19:44,293 [INFO] Relatório em PDF exportado com sucesso: arq/parte-2-rpa/relatorio/relatorio_semanal_funil.pdf
+2026-09-27 18:43:38,590 [INFO] Arquivo lido com sucesso: 6400 linhas, 19 colunas.
+2026-09-27 18:43:38,591 [INFO] Validação de schema: todas as colunas esperadas estão presentes.
+2026-09-27 18:43:38,612 [INFO] valor_imovel: 3 linha(s) com prefixo 'R$' corrigidas.
+2026-09-27 18:43:38,612 [INFO] ltv: coluna calculada (valor_solicitado / valor_imovel).
+2026-09-27 18:43:38,612 [INFO] idade_cliente: 1 linha(s) implausível(is) marcada(s) como ausente.
+2026-09-27 18:43:38,612 [INFO] etapa_max_funil: 1 linha(s) fora do intervalo (>6) corrigida(s) para 6.
+2026-09-27 18:43:38,612 [INFO] data_entrada: 3 linha(s) com formato de data diferente, padronizada(s).
+2026-09-27 18:43:38,612 [INFO] canal_origem: 4 linha(s) com grafia inconsistente, padronizada(s).
+2026-09-27 18:43:38,612 [INFO] taxa_juros_aa: renomeada para taxa_juros_am (nome incoerente com o dicionário).
+2026-09-27 18:43:38,612 [INFO] data_assinatura_contrato: 1 linha(s) com data impossível, marcada(s) como ausente.
+2026-09-27 18:43:38,618 [INFO] Métricas calculadas: 6400 propostas, 1241 contratadas (19.4%).
+2026-09-27 18:43:39,342 [INFO] Relatório em PDF exportado com sucesso: workspace/parte-2-rpa/relatorio/relatorio_semanal_funil.pdf
