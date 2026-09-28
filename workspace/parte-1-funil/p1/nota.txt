@@ -1,0 +1,5 @@
+A etapa 3 (Análise de crédito) é a que mais perde tanto em quantidade de propostas 
+(1.799) quanto em dinheiro (R$ 703.046.480,10), os dois rankings coincidem aqui, porque 
+o ticket médio de quem se perde é parecido em todas as etapas (~R$ 385 mil). Ou seja, 
+nesse caso específico, a ideia de que 'perdas custam diferente' não se confirmou, mas 
+só sabemos disso porque comparamos as duas métricas.
